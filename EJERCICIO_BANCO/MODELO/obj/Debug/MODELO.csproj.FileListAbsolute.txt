@@ -1,0 +1,29 @@
+H:\CLASES UAI\POO 2020\EJERCICIO_BANCO\MODELO\bin\Debug\MODELO.dll
+H:\CLASES UAI\POO 2020\EJERCICIO_BANCO\MODELO\bin\Debug\MODELO.pdb
+H:\CLASES UAI\POO 2020\EJERCICIO_BANCO\MODELO\obj\Debug\MODELO.csprojAssemblyReference.cache
+H:\CLASES UAI\POO 2020\EJERCICIO_BANCO\MODELO\obj\Debug\MODELO.dll
+H:\CLASES UAI\POO 2020\EJERCICIO_BANCO\MODELO\obj\Debug\MODELO.pdb
+G:\UAI\POO 2020\28-04-2020\EJERCICIO_BANCO\MODELO\bin\Debug\MODELO.dll
+G:\UAI\POO 2020\28-04-2020\EJERCICIO_BANCO\MODELO\bin\Debug\MODELO.pdb
+G:\UAI\POO 2020\28-04-2020\EJERCICIO_BANCO\MODELO\obj\Debug\MODELO.csprojAssemblyReference.cache
+G:\UAI\POO 2020\28-04-2020\EJERCICIO_BANCO\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+G:\UAI\POO 2020\28-04-2020\EJERCICIO_BANCO\MODELO\obj\Debug\MODELO.dll
+G:\UAI\POO 2020\28-04-2020\EJERCICIO_BANCO\MODELO\obj\Debug\MODELO.pdb
+G:\UAI\POO 2021\20210504_TM\EJERCICIO_BANCO\MODELO\bin\Debug\MODELO.dll
+G:\UAI\POO 2021\20210504_TM\EJERCICIO_BANCO\MODELO\bin\Debug\MODELO.pdb
+G:\UAI\POO 2021\20210504_TM\EJERCICIO_BANCO\MODELO\obj\Debug\MODELO.csprojAssemblyReference.cache
+G:\UAI\POO 2021\20210504_TM\EJERCICIO_BANCO\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+G:\UAI\POO 2021\20210504_TM\EJERCICIO_BANCO\MODELO\obj\Debug\MODELO.dll
+G:\UAI\POO 2021\20210504_TM\EJERCICIO_BANCO\MODELO\obj\Debug\MODELO.pdb
+C:\Users\Lorenzo\Desktop\20210504_TM\EJERCICIO_BANCO\MODELO\bin\Debug\MODELO.dll
+C:\Users\Lorenzo\Desktop\20210504_TM\EJERCICIO_BANCO\MODELO\bin\Debug\MODELO.pdb
+C:\Users\Lorenzo\Desktop\20210504_TM\EJERCICIO_BANCO\MODELO\obj\Debug\MODELO.csprojAssemblyReference.cache
+C:\Users\Lorenzo\Desktop\20210504_TM\EJERCICIO_BANCO\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\Desktop\20210504_TM\EJERCICIO_BANCO\MODELO\obj\Debug\MODELO.dll
+C:\Users\Lorenzo\Desktop\20210504_TM\EJERCICIO_BANCO\MODELO\obj\Debug\MODELO.pdb
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\EJERCICIO_BANCO\MODELO\bin\Debug\MODELO.dll
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\EJERCICIO_BANCO\MODELO\bin\Debug\MODELO.pdb
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\EJERCICIO_BANCO\MODELO\obj\Debug\MODELO.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\EJERCICIO_BANCO\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\EJERCICIO_BANCO\MODELO\obj\Debug\MODELO.dll
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\EJERCICIO_BANCO\MODELO\obj\Debug\MODELO.pdb

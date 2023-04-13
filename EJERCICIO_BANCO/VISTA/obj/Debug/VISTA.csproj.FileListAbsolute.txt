@@ -1,0 +1,64 @@
+H:\CLASES UAI\POO 2020\EJERCICIO_BANCO\VISTA\bin\Debug\VISTA.exe.config
+H:\CLASES UAI\POO 2020\EJERCICIO_BANCO\VISTA\bin\Debug\VISTA.exe
+H:\CLASES UAI\POO 2020\EJERCICIO_BANCO\VISTA\bin\Debug\VISTA.pdb
+H:\CLASES UAI\POO 2020\EJERCICIO_BANCO\VISTA\bin\Debug\MODELO.dll
+H:\CLASES UAI\POO 2020\EJERCICIO_BANCO\VISTA\bin\Debug\MODELO.pdb
+H:\CLASES UAI\POO 2020\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+H:\CLASES UAI\POO 2020\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.frmCLIENTES.resources
+H:\CLASES UAI\POO 2020\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+H:\CLASES UAI\POO 2020\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+H:\CLASES UAI\POO 2020\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+H:\CLASES UAI\POO 2020\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.exe
+H:\CLASES UAI\POO 2020\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.pdb
+G:\UAI\POO 2020\28-04-2020\EJERCICIO_BANCO\VISTA\bin\Debug\VISTA.exe.config
+G:\UAI\POO 2020\28-04-2020\EJERCICIO_BANCO\VISTA\bin\Debug\VISTA.exe
+G:\UAI\POO 2020\28-04-2020\EJERCICIO_BANCO\VISTA\bin\Debug\VISTA.pdb
+G:\UAI\POO 2020\28-04-2020\EJERCICIO_BANCO\VISTA\bin\Debug\MODELO.dll
+G:\UAI\POO 2020\28-04-2020\EJERCICIO_BANCO\VISTA\bin\Debug\MODELO.pdb
+G:\UAI\POO 2020\28-04-2020\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+G:\UAI\POO 2020\28-04-2020\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.frmCLIENTES.resources
+G:\UAI\POO 2020\28-04-2020\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+G:\UAI\POO 2020\28-04-2020\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+G:\UAI\POO 2020\28-04-2020\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+G:\UAI\POO 2020\28-04-2020\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+G:\UAI\POO 2020\28-04-2020\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.exe
+G:\UAI\POO 2020\28-04-2020\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.pdb
+G:\UAI\POO 2021\20210504_TM\EJERCICIO_BANCO\VISTA\bin\Debug\VISTA.exe.config
+G:\UAI\POO 2021\20210504_TM\EJERCICIO_BANCO\VISTA\bin\Debug\VISTA.exe
+G:\UAI\POO 2021\20210504_TM\EJERCICIO_BANCO\VISTA\bin\Debug\VISTA.pdb
+G:\UAI\POO 2021\20210504_TM\EJERCICIO_BANCO\VISTA\bin\Debug\MODELO.dll
+G:\UAI\POO 2021\20210504_TM\EJERCICIO_BANCO\VISTA\bin\Debug\MODELO.pdb
+G:\UAI\POO 2021\20210504_TM\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+G:\UAI\POO 2021\20210504_TM\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.frmCLIENTES.resources
+G:\UAI\POO 2021\20210504_TM\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+G:\UAI\POO 2021\20210504_TM\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+G:\UAI\POO 2021\20210504_TM\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+G:\UAI\POO 2021\20210504_TM\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+G:\UAI\POO 2021\20210504_TM\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.exe
+G:\UAI\POO 2021\20210504_TM\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.pdb
+C:\Users\Lorenzo\Desktop\20210504_TM\EJERCICIO_BANCO\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Lorenzo\Desktop\20210504_TM\EJERCICIO_BANCO\VISTA\bin\Debug\VISTA.exe
+C:\Users\Lorenzo\Desktop\20210504_TM\EJERCICIO_BANCO\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Lorenzo\Desktop\20210504_TM\EJERCICIO_BANCO\VISTA\bin\Debug\MODELO.dll
+C:\Users\Lorenzo\Desktop\20210504_TM\EJERCICIO_BANCO\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Lorenzo\Desktop\20210504_TM\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+C:\Users\Lorenzo\Desktop\20210504_TM\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.frmCLIENTES.resources
+C:\Users\Lorenzo\Desktop\20210504_TM\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Lorenzo\Desktop\20210504_TM\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\Lorenzo\Desktop\20210504_TM\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\Desktop\20210504_TM\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\Lorenzo\Desktop\20210504_TM\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.exe
+C:\Users\Lorenzo\Desktop\20210504_TM\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.pdb
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.frmCLIENTES.resources
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.exe
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.pdb
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\EJERCICIO_BANCO\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\EJERCICIO_BANCO\VISTA\bin\Debug\VISTA.exe
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\EJERCICIO_BANCO\VISTA\bin\Debug\VISTA.pdb
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\EJERCICIO_BANCO\VISTA\bin\Debug\MODELO.dll
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\EJERCICIO_BANCO\VISTA\bin\Debug\MODELO.pdb
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\EJERCICIO_BANCO\VISTA\obj\Debug\VISTA.csproj.CopyComplete
